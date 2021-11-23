@@ -1,0 +1,39 @@
+{
+"123":
+    			{"SSN": "123",
+     			"firstName": "Jack",
+			"lastName": "Bauer",
+			"gender":"Male",
+			"age": 24,
+			"state": "Berlin",
+			"address": "23 ECRI road",
+			"postcode": "45444",
+			"phoneNumber": "4534543",
+			"vaccine": "Pfizer",
+			"Vac_date": "23-May-2021"},
+
+
+"456" :			{"SSN": "456",
+			"firstName": "Valt",
+			"lastName": "Meuller",
+			"gender":"Male",
+			"age": 50,
+			"state": "Bavaria",
+			"postcode": "59444",
+			"address": "23 Deggendorf road",
+			"phoneNumber": "4533333",
+			"vaccine": "Johnson&Johnson",
+			"Vac_date": "02-January-2021"},
+
+"789": 			{"SSN": "789", 
+     			"firstName": "Penny",
+			"lastName": "Lustig",
+			"gender":"Female",
+			"age": 45,
+			"state": "Bavaria",
+			"postcode": "55444",
+			"address": "90 ECRI road",
+			"phoneNumber": "4534333",
+			"vaccine": "Pfizer",
+	 		"Vac_date": "21-May-2021"}
+}
