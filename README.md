@@ -13,5 +13,5 @@ No Graphical User Interfaces (GUI) was included.
 
 
 # Stacks
-Python
-VSCode
+- Python
+- VSCode
